@@ -11,7 +11,7 @@ Useful for bootcamp students, beginners, or anyone reviewing Linux basics.
 
 [👉 Open in Notion](https://www.notion.so/LINUX-101-TCM-Academy-2256e342bef0802ab8e7d40e07060dde?source=copy_link)
 
-📌 Topics covered (as subpages):
+📌 Topics covered :
 - Linux overview & distributions  
 - Basic commands  
 - File systems  
